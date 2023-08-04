@@ -1,0 +1,51 @@
+.card {
+  width: 200px;
+}
+
+.card img {
+  height: 280px;
+  width: 200px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
+}
+
+.card h2 {
+  margin-top: 0.5rem;
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.card .year {
+  color: #b3b3b3;
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin-right: 4px;
+}
+
+.card span {
+  padding: 4px;
+  border-radius: 4px;
+  background-color: #404040;
+  font-size: 0.75rem;
+  color: #fff;
+  font-weight: 600;
+}
+
+.card .row {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4px;
+}
+
+@media (max-width: 450px) {
+  .card {
+    width: 180px;
+    overflow: hidden;
+  }
+}

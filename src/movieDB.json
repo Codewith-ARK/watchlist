@@ -1,0 +1,893 @@
+[
+  {
+    "id": 1,
+    "name": "A simple favor",
+    "year": 2018,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7uTZETHA1o94np2NTlWo0Wg-3v1RrSnyhyXI8mQ762_IGk28G",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Mystery, Comedy"
+  },
+  {
+    "id": 2,
+    "name": "Agora",
+    "year": 2009,
+    "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgAzb8RCvK_h1hJoGIZjL1IZulyMklUaAN25tU6PLQL9J1moAO",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Adventure, Drama"
+  },
+  {
+    "id": 3,
+    "name": "Along with the Gods: The two worlds",
+    "year": 2017,
+    "poster": "https://www.movienewsletters.net/photos/NZL_260881R1.jpg",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Action, Fantasy"
+  },
+  {
+    "id": 4,
+    "name": "Animaniacs",
+    "year": 1993,
+    "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWY-__4p9k0jtU5hKRATewHIUeS4AWraXqx7JD8kyMVUaoP3au",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Animation"
+  },
+  {
+    "id": 5,
+    "name": "Badshah Begum",
+    "year": 2022,
+    "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtHFKxvJUJu7YcPBV5iDSrw7w3_vKSr-4QntArYMgfJczRIt21",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Mystery, Drama"
+  },
+  {
+    "id": 6,
+    "name": "Bajirao Mastani",
+    "year": 2015,
+    "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT90zVj7l2U72Mrp9liBxmsGrRttYmesCskcqwooJxlnYjHjJ5D",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Romance, Drama"
+  },
+  {
+    "id": 7,
+    "name": "Bangok Buddies",
+    "year": 2019,
+    "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQBRUNu18K17j9sIur83NJl4wv-GBzCbASCWdC2QSOhM0ZHjTrf",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Comedy, LGBT"
+  },
+  {
+    "id": 8,
+    "name": "Beautiful Thing",
+    "year": 1996,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyXCwQNyoQRvR8Y8vLi3kaK_cuorz0c08us_PKJRi_uYEBG0l",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "LGBT, Romance, Comedy"
+  },
+  {
+    "id": 9,
+    "name": "Black Money Love",
+    "year": 2014,
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5wzAz4uIISUa5m9qdEwZKiad14hJHyBtjitKshrTSjCqpXfAD",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Drama"
+  },
+  {
+    "id": 10,
+    "name": "Boy Meets the World",
+    "year": 1993,
+    "poster": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgyEHGM6S42uCWkVwMXE2kmMQ6_vsY-O2DOvKMnfP8pNSGYroF",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Comedy, Sitcom"
+  },
+  {
+    "id": 11,
+    "name": "Boygiri",
+    "year": 2017,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3ZDcxMjctN2RiYy00YmYyLTgyOTAtNmQ2Y2M4ODIzNzFhXkEyXkFqcGdeQXVyNzg0OTQyNzQ@._V1_.jpg",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "LGBT, Comedy, Drama"
+  },
+  {
+    "id": 12,
+    "name": "Boys",
+    "year": 2014,
+    "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOGYVfh3zeEASAelaebez31uXOZjRgNEGBxoIhSOv_rdPoniaS",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "LGBT, Romance, Drama"
+  },
+  {
+    "id": 13,
+    "name": "Bridgerton",
+    "year": 2020,
+    "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvCtcyR4cjH3eNFVRW1qFTQEmSSjsVZ072NMIclNl8ycrRyNU0",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Romance, Sexual"
+  },
+  {
+    "id": 14,
+    "name": "Bros",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzI4MDg3NDEtOTg1OC00MDdjLWEzY2QtMmFmMWNlNTcxZDIxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "LGBT, Romance, Comedy"
+  },
+  {
+    "id": 15,
+    "name": "Chupke Chupke",
+    "year": 2021,
+    "poster": "https://pakistantime.net/wp-content/uploads/2021/06/2.jpg",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Rom-Com"
+  },
+  {
+    "id": 16,
+    "name": "Class of 2017",
+    "year": 2017,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Y3YTBmYTEtNDZkOC00Mzk5LWFhYzYtNzM1YmEwNTM1OGZkXkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_FMjpg_UX1000_.jpg",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "LGBT, Comedy, Drama"
+  },
+  {
+    "id": 17,
+    "name": "Decoupled",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Comedy, Drama"
+  },
+  {
+    "id": 18,
+    "name": "Doctor Sleep",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Horror, Thriller"
+  },
+  {
+    "id": 19,
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 20,
+    "name": "Ehd-e-Wafa",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 21,
+    "name": "Everything Everywhere all at once",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 22,
+    "name": "Fleabag",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Comedy, Drama, Romance"
+  },
+  {
+    "id": 23,
+    "name": "Focus",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 24,
+    "name": "Four More Shots Please!",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Comedy, Girl Power"
+  },
+  {
+    "id": 25,
+    "name": "Gehraiyan",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 26,
+    "name": "Geography Club",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "",
+    "genre": ""
+  },
+  {
+    "id": 27,
+    "name": "Get Out",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 28,
+    "name": "Get Real",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "",
+    "genre": ""
+  },
+  {
+    "id": 29,
+    "name": "Handsome Devil",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "",
+    "genre": ""
+  },
+  {
+    "id": 30,
+    "name": "Heartstopper",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 31,
+    "name": "Hereditary",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 32,
+    "name": "Hostel Daze",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Comedy, Bachelor"
+  },
+  {
+    "id": 33,
+    "name": "How to Get Away with Murder",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Drama, Thriller, Crime, Mystery"
+  },
+  {
+    "id": 34,
+    "name": "Hustlers",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 35,
+    "name": "In the Heights",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 36,
+    "name": "Intersteller",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 37,
+    "name": "Jodorowsky's Dune",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 38,
+    "name": "Kabir Singh",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 39,
+    "name": "KinnPorsche the Series La Forte",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 40,
+    "name": "Knives Out",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 41,
+    "name": "Lady Bird",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 42,
+    "name": "Limitless",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 43,
+    "name": "Love & Gelato",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 44,
+    "name": "Made in Heaven",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 45,
+    "name": "Mamma Mia!",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 46,
+    "name": "Middle Class Love",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Romantic, Funny, Wholesome"
+  },
+  {
+    "id": 47,
+    "name": "Minnal Murali",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 48,
+    "name": "Moonfall",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 49,
+    "name": "Mr. Nobody",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 50,
+    "name": "Mr. Robot",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 51,
+    "name": "Naz & Malik",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 52,
+    "name": "Normal People",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Romance"
+  },
+  {
+    "id": 53,
+    "name": "Of an Age",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Drama, LGBT"
+  },
+  {
+    "id": 54,
+    "name": "Okja",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 55,
+    "name": "Operation Fortune: Ruse de Guerre",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 56,
+    "name": "Oppenheimer",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 57,
+    "name": "Oxygen",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 58,
+    "name": "Padmaavat",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 59,
+    "name": "Parasite",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 60,
+    "name": "Patti Patni aur Panga",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Comedy, Romance"
+  },
+  {
+    "id": 61,
+    "name": "Polite Society",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Comedy, Adventure"
+  },
+  {
+    "id": 62,
+    "name": "Poof",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Drama, LGBT"
+  },
+  {
+    "id": 63,
+    "name": "Queenpins",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 64,
+    "name": "Rang Mahal",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 65,
+    "name": "Resident Evil: Welcome to Raccoon City",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 66,
+    "name": "Romil & Juggal",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 67,
+    "name": "Ruposh",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 68,
+    "name": "Saas, Bahu Aur Flamingo",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Drama, Girl Power"
+  },
+  {
+    "id": 69,
+    "name": "Sacred Games",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 70,
+    "name": "Scam 1992",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 71,
+    "name": "Skin Walker",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 72,
+    "name": "Sonic the Hedgehog 2",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 73,
+    "name": "Source Code",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 74,
+    "name": "Start vs. The force of evil",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 75,
+    "name": "Suno Chanda",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 76,
+    "name": "Tag",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 77,
+    "name": "The 8th Night",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 78,
+    "name": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Fantasy, Adventure"
+  },
+  {
+    "id": 79,
+    "name": "The Crown",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 80,
+    "name": "The end of the Fucking World",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 81,
+    "name": "The Fallout",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 82,
+    "name": "The Grand Budapest Hotel",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 83,
+    "name": "The Greatest Showman",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 84,
+    "name": "The Guilty",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 85,
+    "name": "The Loss City of Z",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 86,
+    "name": "The Lost City",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 87,
+    "name": "The married woman",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 88,
+    "name": "The owl House",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 89,
+    "name": "The Shawshank Redemption",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 90,
+    "name": "The Sinner",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Thriller"
+  },
+  {
+    "id": 91,
+    "name": "The Way he Looks",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 92,
+    "name": "The Witch",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 93,
+    "name": "Uncharted",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 94,
+    "name": "Uncoupled",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Comedy, Drama, LGBT"
+  },
+  {
+    "id": 95,
+    "name": "Uncut Gems",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 96,
+    "name": "Us",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 97,
+    "name": "White Chicks",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Comedy, Crime"
+  },
+  {
+    "id": 98,
+    "name": "You",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": ""
+  },
+  {
+    "id": 99,
+    "name": "Your Name.",
+    "year": "",
+    "poster": "",
+    "platform": "",
+    "source": "Google Watchlist",
+    "genre": "Anime, Beautifu"
+  }
+]
